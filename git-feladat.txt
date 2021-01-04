@@ -1,0 +1,21 @@
+1. feladat - Basic
+
+0.hozz létre egy lokális git repót
+
+a)
+1. hozz létre a repóban egy readme.txt fájlt
+2. Írd bele, hogy "Hello World!"
+3. stageld a változást
+4. commitold a változásokat, adj egy nevet a commitnak.
+
+b)
+2. adj hozzá egy index.html fájlt és csak annyit írj bele, hogy "index.html"
+3. commmit-old a fájlt, commit neve:  "add index page"
+4. az index html fájl tartalmat töröld és hozz létre egy alap html5 oldal struktúrát.
+5. git diff-el nézd meg a különbséget
+
+c)
+Logold ki a commitok-at parancssorban (git log)
+
+
+
